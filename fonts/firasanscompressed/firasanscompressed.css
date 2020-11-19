@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed SemiBold'), local('FiraSansCompressed-SemiBold'), url('Firasanscompressedsemibold.woff2') format('woff2'), url('Firasanscompressedsemibold.woff') format('woff'), url('Firasanscompressedsemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Medium'), local('FiraSansCompressed-Medium'), url('Firasanscompressedmedium.woff2') format('woff2'), url('Firasanscompressedmedium.woff') format('woff'), url('Firasanscompressedmedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Medium Italic'), local('FiraSansCompressed-MediumItalic'), url('Firasanscompressedmediumitalic.woff2') format('woff2'), url('Firasanscompressedmediumitalic.woff') format('woff'), url('Firasanscompressedmediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Italic'), local('FiraSansCompressed-Italic'), url('Firasanscompresseditalic.woff2') format('woff2'), url('Firasanscompresseditalic.woff') format('woff'), url('Firasanscompresseditalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed ExtraLight'), local('FiraSansCompressed-ExtraLight'), url('Firasanscompressedextralight.woff2') format('woff2'), url('Firasanscompressedextralight.woff') format('woff'), url('Firasanscompressedextralight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Light Italic'), local('FiraSansCompressed-LightItalic'), url('Firasanscompressedlightitalic.woff2') format('woff2'), url('Firasanscompressedlightitalic.woff') format('woff'), url('Firasanscompressedlightitalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Light'), local('FiraSansCompressed-Light'), url('Firasanscompressedlight.woff2') format('woff2'), url('Firasanscompressedlight.woff') format('woff'), url('Firasanscompressedlight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Book'), local('FiraSansCompressed-Book'), url('Firasanscompressedbook.woff2') format('woff2'), url('Firasanscompressedbook.woff') format('woff'), url('Firasanscompressedbook.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Regular'), local('FiraSansCompressed-Regular'), url('Firasanscompressedregular.woff2') format('woff2'), url('Firasanscompressedregular.woff') format('woff'), url('Firasanscompressedregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Heavy'), local('FiraSansCompressed-Heavy'), url('Firasanscompressedheavy.woff2') format('woff2'), url('Firasanscompressedheavy.woff') format('woff'), url('Firasanscompressedheavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed SemiBold Italic'), local('FiraSansCompressed-SemiBoldItalic'), url('Firasanscompressedsemibolditalic.woff2') format('woff2'), url('Firasanscompressedsemibolditalic.woff') format('woff'), url('Firasanscompressedsemibolditalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Bold Italic'), local('FiraSansCompressed-BoldItalic'), url('Firasanscompressedbolditalic.woff2') format('woff2'), url('Firasanscompressedbolditalic.woff') format('woff'), url('Firasanscompressedbolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed ExtraLight Italic'), local('FiraSansCompressed-ExtraLightItalic'), url('Firasanscompressedextralightitalic.woff2') format('woff2'), url('Firasanscompressedextralightitalic.woff') format('woff'), url('Firasanscompressedextralightitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Bold'), local('FiraSansCompressed-Bold'), url('Firasanscompressedbold.woff2') format('woff2'), url('Firasanscompressedbold.woff') format('woff'), url('Firasanscompressedbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Heavy Italic'), local('FiraSansCompressed-HeavyItalic'), url('Firasanscompressedheavyitalic.woff2') format('woff2'), url('Firasanscompressedheavyitalic.woff') format('woff'), url('Firasanscompressedheavyitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed ExtraBold'), local('FiraSansCompressed-ExtraBold'), url('Firasanscompressedextrabold.woff2') format('woff2'), url('Firasanscompressedextrabold.woff') format('woff'), url('Firasanscompressedextrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed Book Italic'), local('FiraSansCompressed-BookItalic'), url('Firasanscompressedbookitalic.woff2') format('woff2'), url('Firasanscompressedbookitalic.woff') format('woff'), url('Firasanscompressedbookitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans Compressed';
+    src: local('Fira Sans Compressed ExtraBold Italic'), local('FiraSansCompressed-ExtraBoldItalic'), url('Firasanscompressedextrabolditalic.woff2') format('woff2'), url('Firasanscompressedextrabolditalic.woff') format('woff'), url('Firasanscompressedextrabolditalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}

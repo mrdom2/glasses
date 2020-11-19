@@ -1,0 +1,299 @@
+@media (max-width: 1199px) {
+  #head img {
+    width: 100%; }
+  #head #_menu ul li a {
+    padding: 12px 1px;
+    font-size: 15px; }
+  #head p.tel {
+    width: 100%;
+    font-size: 24px;
+    letter-spacing: -1px; }
+  #head h1 {
+    font-size: 20px; }
+
+  #head button:not(.navbar-toggle) {
+    margin-top: 0; }
+
+  #scr1 {
+    margin-top: -10px; }
+
+  #scr3 #part2 p {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 15px; }
+
+  #form1 .forma input, #form1 .forma button {
+    width: 30%; }
+
+  #scr4 .wrap {
+    height: 165px; }
+    #scr4 .wrap img {
+      width: 100%; }
+    #scr4 .wrap p.polos {
+      width: 90.7%; }
+
+  #scr5 .wrap p.polos {
+    width: 90.7%; }
+
+  #scr5 .wrap {
+    margin-top: 20px;
+    height: 255px; }
+
+  #scr5 .images {
+    margin-top: 5px; }
+
+  #form3 input, #form3 button {
+    width: 47% !important; }
+
+  #footer p.tel {
+    width: 100%;
+    font-size: 24px;
+    letter-spacing: -1px; } }
+@media (max-width: 991px) {
+  #head .logo, #footer .logo {
+    text-align: center; }
+    #head .logo img, #footer .logo img {
+      width: 25%; }
+  #head h1, #footer h1 {
+    font-size: 24px; }
+  #head .dno, #footer .dno {
+    text-align: center; }
+    #head .dno button, #footer .dno button {
+      width: 50%; }
+    #head .dno p.tel, #footer .dno p.tel {
+      width: 29%;
+      margin-left: auto;
+      margin-right: auto; }
+
+  #head #_menu ul li a {
+    padding: 12px 15px;
+    font-size: 16px; }
+
+  #scr1 {
+    margin-top: 10px; }
+
+  #scr3 p:not(.polos) {
+    margin: 5px; }
+
+  #scr3 p {
+    font-size: 15px; }
+
+  .text p {
+    font-size: 22px; }
+
+  #scr3 p.polos {
+    width: 91.5%; }
+
+  #scr3 p.polos1 {
+    width: 100%; }
+
+  #scr3 .comeon {
+    height: 130px; }
+
+  #scr3 .block:hover p.polos1 {
+    margin-top: -45px; }
+
+  #form1 .forma input, #form1 .forma button {
+    width: 40%;
+    display: block;
+    margin: auto;
+    margin-top: 10px; }
+
+  #scr4 .wrap p.polos {
+    width: 88%; }
+
+  #scr4 .wrap {
+    height: 140px; }
+    #scr4 .wrap p.polos1 {
+      margin-top: -40px; }
+
+  #scr5 .wrap p.opis {
+    margin-left: 5px; }
+
+  #scr5 .wrap p.polos {
+    width: 88%; }
+
+  #scr5 .wrap p.polos1 {
+    margin-top: -85px; }
+
+  #scr6 .bx-wrapper {
+    max-width: 660px !important; }
+
+  #scr7 p.prost {
+    font-size: 13px; }
+
+  #scr7 .part2 img {
+    width: 100%; }
+
+  #scr7 .cifra {
+    font-size: 120px; }
+
+  #scr7 p.prost {
+    font-size: 18px;
+    margin-top: -80px;
+    font-size: 13px; }
+
+  #scr7 p.not {
+    margin-top: -100px; } }
+@media (max-width: 767px) {
+  #scr6 .bx-wrapper {
+    max-width: 250px !important; }
+
+  #head .dno p.tel, #footer .dno p.tel {
+    width: 78%; }
+
+  #head .dno button, #footer .dno button {
+    width: 100%; }
+
+  #scr1 .como h1 {
+    font-size: 40px; }
+
+  #scr1 .como h2 {
+    font-size: 29px; }
+
+  #scr1 .ob input, #scr1 .ob button {
+    display: block;
+    width: 95%;
+    margin: auto !important;
+    margin-top: 10px !important; }
+
+  #scr3 p.polos {
+    width: 90%; }
+
+  #scr3 #part2 .col-md-3 {
+    text-align: center; }
+
+  #form1 h1 {
+    margin: 0;
+    font-size: 30px; }
+
+  #form1 .forma input, #form1 .forma button {
+    width: 100%; }
+
+  #scr4 .wrap p.polos {
+    width: 91%; }
+
+  #scr4 .wrap {
+    height: 180px;
+    margin-top: 10px; }
+
+  #scr4 #part2 .lox {
+    margin-top: 15px;
+    text-align: center; }
+    #scr4 #part2 .lox .imob {
+      margin: auto; }
+
+  #form2 h1 span, #form3 h1 span {
+    font-size: 44px; }
+
+  #form2 .f input, #form2 .f button, #form3 .f input, #form3 .f button {
+    display: block;
+    width: 100%;
+    margin-top: 10px; }
+
+  #scr5 .wrap p.polos {
+    width: 91%; }
+
+  #form3 h1 {
+    font-size: 28px; }
+    #form3 h1 span {
+      font-size: 36px; }
+
+  #form3 input, #form3 button {
+    width: 100% !important; }
+
+  #form3 h1 {
+    font-size: 22px; }
+
+  #form3 h1 span {
+    font-size: 28px; }
+
+  #scr7 button {
+    padding: 0 0px;
+    width: 100%; }
+
+  #scr7 .part3 p, #scr7 .part3 .dno {
+    display: block;
+    margin: auto;
+    text-align: center; }
+  #scr7 .part3 p {
+    margin-top: 10px; }
+  #scr7 .part3 .wr {
+    width: 100%; }
+  #scr7 .part3 .ob {
+    height: auto !important;
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin: auto !important; }
+
+  #form4 h1 {
+    font-size: 23px; }
+
+  #form4 h3 {
+    font-size: 22px; }
+
+  #form4 .forma input, #form4 .forma button {
+    width: 100%;
+    display: block;
+    margin-top: 10px; }
+
+  #head #_menu ul li {
+    float: none;
+    display: block;
+    text-align: center; }
+
+  .navbar-nav {
+    margin: 7.5px 0px !important; }
+
+  #head #_menu ul {
+    background-color: #f3f3f3; }
+
+  input, button {
+    margin-left: 0 !important;
+    margin-right: 0 !important; }
+
+  .modal-dialog {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-top: 50px !important; }
+
+  .modal-content form input, .modal-content form button {
+    width: 100% !important; }
+
+  #head h1, #footer h1 {
+    font-size: 18px; }
+
+  #scr7 .part3 .wr .ob img {
+    margin-top: 10px; }
+
+  #scr3 #part2 img {
+    margin-top: 15px; }
+
+  .bx-wrapper .bx-controls-direction a {
+    width: 42px !important;
+    height: 42px !important; }
+
+  .bx-wrapper .bx-prev, .bx-wrapper .bx-next {
+    background-size: 100% !important; }
+
+  #scr5 .wrap {
+    height: 280px; }
+
+  #head #_menu {
+    margin-top: -215px;
+    margin-bottom: 170px !important; }
+
+  #head img {
+    margin-top: 50px; }
+
+  #form2 .f .form-group, #form3 .f .form-group {
+    margin-left: 0; }
+
+  #scr7 .cifra {
+    margin-top: 20px; }
+
+  #scr7 .last .cifra {
+    margin-top: -10px !important; } }
+
+/*# sourceMappingURL=main_media.css.map */
